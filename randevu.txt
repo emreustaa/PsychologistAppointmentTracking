@@ -1,0 +1,5 @@
+hakan aktan,1,8
+emel birlik,2,12
+selim kiraz,3,12
+kazim solmaz,2,13
+Pelin poyraz,6,10
